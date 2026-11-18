@@ -10,3 +10,5 @@ V3.0.2: Admin-only role editing for other demo accounts; existing account storag
 V3.0.3: Admin-only demo password changes, including own account; confirmation and visibility toggle.
 
 V3.0.4: Visual refresh, dashboard and sidebar artwork, login background. No changes to account or delivery logic.
+
+V3.0.5: New BBD entry only in individual pallet editor. Legacy saved note-derived BBDs are preserved and copied into individual fields on edit.
