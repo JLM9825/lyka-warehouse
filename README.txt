@@ -4,3 +4,7 @@ Demo logins: admin / LykaAdmin123; supervisor / LykaSuper123; warehouse / LykaSt
 Passwords and roles are browser-local and inspectable; never use real passwords or company data. Login again after refresh. Admin can manage local demo accounts and backups. Supervisor and Admin can delete individual records. PDF via Print / Save PDF.
 
 V3.0.1: History status filters and document card library; demo authentication unchanged.
+
+V3.0.2: Admin-only role editing for other demo accounts; existing account storage retained.
+
+V3.0.3: Admin-only demo password changes, including own account; confirmation and visibility toggle.
