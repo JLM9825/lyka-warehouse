@@ -1,14 +1,2 @@
-LYKA Warehouse V3.0 — demonstration only
-Upload all eight files to GitHub Pages. Existing local records retained.
-Demo logins: admin / LykaAdmin123; supervisor / LykaSuper123; warehouse / LykaStaff123.
-Passwords and roles are browser-local and inspectable; never use real passwords or company data. Login again after refresh. Admin can manage local demo accounts and backups. Supervisor and Admin can delete individual records. PDF via Print / Save PDF.
-
-V3.0.1: History status filters and document card library; demo authentication unchanged.
-
-V3.0.2: Admin-only role editing for other demo accounts; existing account storage retained.
-
-V3.0.3: Admin-only demo password changes, including own account; confirmation and visibility toggle.
-
-V3.0.4: Visual refresh, dashboard and sidebar artwork, login background. No changes to account or delivery logic.
-
-V3.0.5: New BBD entry only in individual pallet editor. Legacy saved note-derived BBDs are preserved and copied into individual fields on edit.
+LYKA Warehouse V3.0.6 — Product traceability
+Upload all eight files to the existing GitHub Pages repository. Back up records first. Search Docket Records by product, BBD and/or exact batch. Matches are individual pallets from non-draft deliveries, including historical note-derived BBDs. Print / Save PDF uses browser dialog. Local demo only; no cloud or webhook yet.
