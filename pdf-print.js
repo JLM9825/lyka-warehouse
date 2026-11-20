@@ -1,3 +1,4 @@
+/* LYKA Warehouse | Original application design and development: Jordon Milson | 2026 */
 /* Standalone, local-only PDF writer. A4 portrait, vector text and rules. */
 function makeWarehousePDF(r,number=null){
  const W=595.28,H=841.89, pages=[]; let s=''; const green='0 .33 .26', black='0.08 0.08 0.08';
