@@ -1,4 +1,4 @@
-LYKA Warehouse V3.1.11
+LYKA Warehouse V3.1.14
 Upload all ten files to the existing GitHub Pages repository. Back up records before updating. All print pages use A4 portrait; pallet contents rotate 90 degrees. Use single-sided printing. Official logo included.
 
 Duplicate copies weight and BBD; batch remains blank. Supplier batch is optional; blank batches derive from BBD.
@@ -13,4 +13,8 @@ Native keyboard hints reinforced for date and weight fields. Temperature request
 
 Developer attribution added to source and Manager-only About panel.
 
-V3.1.11: Delivery reference only mandatory header field; missing fields or failed quality checks require local Supervisor/Manager approval. Approval audit info is stored locally. Editing resets prior approval. Prototype only; not secure or cross-device.
+V3.1.14: Delivery reference only mandatory header field; only packaging FAIL, Hard Frozen NO and expired BBD require local Supervisor/Manager approval; blank delivery fields do not. Approval audit info is stored locally. Editing resets prior approval. Prototype only; not secure or cross-device.
+
+V3.1.14: Failed quality checks or expired BBD require a receiving explanation before submission. Supervisor/Manager must add approval justification. Both comments are shown in record review and stored locally.
+
+V3.1.14: Pack Members submit flagged quality issues without comments. Supervisor/Manager must enter an approval justification before approval.
