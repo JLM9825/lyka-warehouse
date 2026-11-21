@@ -1,4 +1,4 @@
-LYKA Warehouse V3.1.16
+LYKA Warehouse V3.1.17
 Upload all ten files to the existing GitHub Pages repository. Back up records before updating. All print pages use A4 portrait; pallet contents rotate 90 degrees. Use single-sided printing. Official logo included.
 
 Duplicate copies weight and BBD; batch remains blank. Supplier batch is optional; blank batches derive from BBD.
@@ -19,6 +19,8 @@ V3.1.14: Failed quality checks or expired BBD require a receiving explanation be
 
 V3.1.14: Pack Members submit flagged quality issues without comments. Supervisor/Manager must enter an approval justification before approval.
 
-V3.1.16: Added default demo Manager login username Jordon, display name Developer, password 123456. Existing local accounts are preserved; this login is added on existing devices if missing. Prototype only: credentials are public and not secure.
+V3.1.17: Added default demo Manager login username Jordon, display name Developer, password 123456. Existing local accounts are preserved; this login is added on existing devices if missing. Prototype only: credentials are public and not secure.
 
-V3.1.16: Default staff testing account username Lyka, display name Pack Member, password Lyka123, Staff role. Added to existing devices only when absent; existing account credentials preserved. Public demo credentials; sample data only.
+V3.1.17: Default staff testing account username Lyka, display name Pack Member, password Lyka123, Staff role. Added to existing devices only when absent; existing account credentials preserved. Public demo credentials; sample data only.
+
+V3.1.17: Home Screen icons use the original LYKA logo artwork unchanged on transparent square canvases; dedicated Apple touch icon added. No workflow changes.
