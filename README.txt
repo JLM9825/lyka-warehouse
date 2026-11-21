@@ -1,4 +1,4 @@
-LYKA Warehouse V3.1.10
+LYKA Warehouse V3.1.11
 Upload all ten files to the existing GitHub Pages repository. Back up records before updating. All print pages use A4 portrait; pallet contents rotate 90 degrees. Use single-sided printing. Official logo included.
 
 Duplicate copies weight and BBD; batch remains blank. Supplier batch is optional; blank batches derive from BBD.
@@ -12,3 +12,5 @@ Printing: Print Summary + Pallets opens the native print dialog directly. Printa
 Native keyboard hints reinforced for date and weight fields. Temperature requests decimal keyboard; minus may require switching keyboard on iPadOS. Native keyboard layout is controlled by the OS.
 
 Developer attribution added to source and Manager-only About panel.
+
+V3.1.11: Delivery reference only mandatory header field; missing fields or failed quality checks require local Supervisor/Manager approval. Approval audit info is stored locally. Editing resets prior approval. Prototype only; not secure or cross-device.
